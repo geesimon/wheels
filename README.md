@@ -1,5 +1,10 @@
-# Learn LLM by Building Fundamentals from Scratch
+# Learn LLM by Building Fundamentals from Scratch (Rebuild Wheels)
+`"What I cannot create, I do not understand" - Richard Feynman`
 
-## [Llama from scratch](https://blog.briankitano.com/llama-from-scratch/)
-## [FlashAttention](https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)
-## [LoRA](https://colab.research.google.com/drive/1QG1ONI3PfxCO2Zcs8eiZmsDbWPl4SftZ?usp=sharing)
+Follow this principle, this repro reproduces foundation technologies for LLM with vanilla Pytorch. 
+
+# Topics
+## [Llama from scratch](https://github.com/geesimon/wheels/blob/main/Llama2.ipynb)
+## [FlashAttention](https://github.com/geesimon/wheels/blob/main/FlashAttention.ipynb)
+## [LoRA](https://github.com/geesimon/wheels/blob/main/LoRA.ipynb)
+## [LLM.Int8 Quantization Inference](https://github.com/geesimon/wheels/blob/main/Quantization.LLM.int8.ipynb)
