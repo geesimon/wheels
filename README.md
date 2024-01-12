@@ -1,4 +1,4 @@
-# Learn LLM by Building Fundamentals from Scratch (Rebuild Wheels)
+# Learn LLM by Building from Scratch (Rebuild Wheels)
 `"What I cannot create, I do not understand" - Richard Feynman`
 
 Follow this principle, this repro reproduces foundation technologies for LLM with vanilla Pytorch. 
